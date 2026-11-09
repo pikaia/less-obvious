@@ -2,13 +2,11 @@
 layout: post
 title: "The Fix Was Cheap. The Certainty Wasn't."
 date: 2026-11-09 06:30:00 -0500
-last_modified_at: 2026-11-09 06:30:00 -0500
+last_modified_at: 2026-11-09 10:50:00 -0500
 categories: [ideas, agents]
 ---
 
-<!-- LISTEN: after the Kokoro audio step, insert here:
-     <audio controls src="/less-obvious/assets/audio/the-fix-was-cheap.mp3"></audio>
-     and add the YouTube waveform-video link once published. -->
+<audio controls src="/less-obvious/assets/audio/the-fix-was-cheap.mp3"></audio>
 
 This morning, an AI ordered my lunch.
 

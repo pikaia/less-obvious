@@ -1,0 +1,743 @@
+﻿1
+00:00:00,080 --> 00:00:02,075
+The Fix Was Cheap.
+
+2
+00:00:02,075 --> 00:00:04,450
+The Certainty Wasn't.
+
+3
+00:00:04,450 --> 00:00:07,975
+This morning, an AI ordered my lunch.
+
+4
+00:00:07,975 --> 00:00:10,800
+Not helped me order it — ordered it.
+
+5
+00:00:10,800 --> 00:00:13,777
+I said what I wanted, it
+found the restaurant's
+
+6
+00:00:13,857 --> 00:00:17,093
+own ordering page, checked
+it was the right branch,
+
+7
+00:00:17,173 --> 00:00:20,100
+put in the order, and
+I approved the payment.
+
+8
+00:00:20,100 --> 00:00:23,083
+Fifteen dollars and eighty-five cents for
+
+9
+00:00:23,162 --> 00:00:26,225
+a Pad Woon Sen, ready in fifteen minutes.
+
+10
+00:00:26,225 --> 00:00:29,308
+When I went to collect it,
+I was excited enough to
+
+11
+00:00:29,388 --> 00:00:32,425
+tell the woman at the
+counter how it had worked.
+
+12
+00:00:32,425 --> 00:00:35,050
+She asked me what I had used.
+
+13
+00:00:35,050 --> 00:00:37,350
+I said Meta Muse.
+
+14
+00:00:37,350 --> 00:00:39,820
+I told her I don't trust Facebook,
+
+15
+00:00:39,900 --> 00:00:42,825
+but I use Muse — it is all about trust.
+
+16
+00:00:42,825 --> 00:00:45,875
+She said she needs to go and try it.
+
+17
+00:00:45,875 --> 00:00:49,625
+That short exchange is
+why I am writing this.
+
+18
+00:00:49,625 --> 00:00:52,589
+Because the lunch is the least interesting
+
+19
+00:00:52,669 --> 00:00:55,350
+thing the agent did for me this week.
+
+20
+00:00:55,350 --> 00:01:00,125
+Every house has a list of small
+problems that never get fixed.
+
+21
+00:01:00,125 --> 00:01:02,571
+A bathroom sink that will not hold
+
+22
+00:01:02,651 --> 00:01:05,400
+water because the stopper is missing.
+
+23
+00:01:05,400 --> 00:01:09,950
+A phone cable in the car that
+charges when it feels like it.
+
+24
+00:01:09,950 --> 00:01:12,850
+Each fix costs a few dollars.
+
+25
+00:01:12,850 --> 00:01:17,375
+And yet the problems stay, for
+months, sometimes for years.
+
+26
+00:01:17,375 --> 00:01:19,500
+It is not the money.
+
+27
+00:01:19,500 --> 00:01:21,825
+It was never the money.
+
+28
+00:01:21,825 --> 00:01:25,722
+To buy the right stopper, I
+would have to measure the drain,
+
+29
+00:01:25,802 --> 00:01:28,505
+work out whether the sink has an overflow,
+
+30
+00:01:28,585 --> 00:01:31,700
+read through listings,
+compare sizes, and hope.
+
+31
+00:01:31,700 --> 00:01:34,407
+Half an hour of careful attention for
+
+32
+00:01:34,487 --> 00:01:37,350
+a part that costs less than the lunch.
+
+33
+00:01:37,350 --> 00:01:40,225
+The care costs more than the part.
+
+34
+00:01:40,225 --> 00:01:45,550
+Any sensible person does the
+arithmetic and leaves the sink alone.
+
+35
+00:01:45,550 --> 00:01:49,400
+The problem is not that
+the fix is expensive.
+
+36
+00:01:49,400 --> 00:01:53,275
+The problem is that
+being sure is expensive.
+
+37
+00:01:53,275 --> 00:01:56,900
+Uncertainty is the costly ingredient.
+
+38
+00:01:56,900 --> 00:01:59,050
+The part is cheap.
+
+39
+00:01:59,050 --> 00:02:02,350
+And uncertainty does not sit still.
+
+40
+00:02:02,350 --> 00:02:05,000
+It spirals — it compounds.
+
+41
+00:02:05,000 --> 00:02:08,737
+One question raises the
+next: measure what, exactly —
+
+42
+00:02:08,817 --> 00:02:12,850
+and what if it leaks, and
+what if the return is a fight?
+
+43
+00:02:12,850 --> 00:02:16,881
+Each unanswered question makes
+the small fix feel larger,
+
+44
+00:02:16,961 --> 00:02:22,225
+until a six-dollar part carries the
+imagined weight of a plumber's visit.
+
+45
+00:02:22,225 --> 00:02:26,775
+Left alone, the doubt grows faster
+than the problem ever would.
+
+46
+00:02:26,775 --> 00:02:29,885
+This week my agent did the certainty work
+
+47
+00:02:29,965 --> 00:02:33,000
+on several of these, one after another.
+
+48
+00:02:33,000 --> 00:02:35,109
+None of it is rocket science —
+
+49
+00:02:35,189 --> 00:02:38,400
+and it never was, before
+the agent or after.
+
+50
+00:02:38,400 --> 00:02:43,540
+Every step in what follows is simple,
+and it was just as simple last year:
+
+51
+00:02:43,620 --> 00:02:47,500
+a photograph, a measurement,
+a check against a listing.
+
+52
+00:02:47,500 --> 00:02:49,925
+The steps did not change.
+
+53
+00:02:49,925 --> 00:02:54,200
+The only change was the
+removal of uncertainty.
+
+54
+00:02:54,200 --> 00:02:56,524
+The stoppers: the need was simple —
+
+55
+00:02:56,604 --> 00:03:00,175
+the stopper was missing,
+and I wanted a replacement.
+
+56
+00:03:00,175 --> 00:03:05,475
+Even my remaining part in it was
+easier than measuring usually is.
+
+57
+00:03:05,475 --> 00:03:08,775
+Measuring is itself an uncertain activity:
+
+58
+00:03:08,855 --> 00:03:12,075
+do I measure the hole, or the outer rim?
+
+59
+00:03:12,075 --> 00:03:15,975
+The inside, or across
+the chrome flange on top?
+
+60
+00:03:15,975 --> 00:03:18,606
+Each tiny question is another small
+
+61
+00:03:18,686 --> 00:03:21,475
+push away from doing the fix at all.
+
+62
+00:03:21,475 --> 00:03:24,275
+I did none of that working out.
+
+63
+00:03:24,275 --> 00:03:28,097
+I did what the agent told me
+to do: measure the inside,
+
+64
+00:03:28,177 --> 00:03:30,722
+wall to wall, not across the flange —
+
+65
+00:03:30,802 --> 00:03:34,775
+and if the tape was hard to
+read, photograph it instead.
+
+66
+00:03:34,775 --> 00:03:39,100
+So I laid a tape across the
+drain and took a photograph.
+
+67
+00:03:39,100 --> 00:03:43,173
+The agent read the bore from the
+photo, checked the tape's own
+
+68
+00:03:43,253 --> 00:03:46,657
+scale against itself so the
+number could be trusted,
+
+69
+00:03:46,737 --> 00:03:51,225
+and checked that size and the
+overflow design against the listings.
+
+70
+00:03:51,225 --> 00:03:53,700
+We ordered with confidence.
+
+71
+00:03:53,700 --> 00:03:57,450
+And the replacement was
+not merely a replacement.
+
+72
+00:03:57,450 --> 00:04:01,925
+The agent pointed out a version
+with a mesh basket underneath —
+
+73
+00:04:02,005 --> 00:04:04,825
+a built-in catcher for hair and debris.
+
+74
+00:04:04,825 --> 00:04:06,601
+Both sinks now hold water,
+
+75
+00:04:06,681 --> 00:04:10,250
+and they catch what the
+old stoppers never caught.
+
+76
+00:04:10,250 --> 00:04:12,675
+The car: the same pattern.
+
+77
+00:04:12,675 --> 00:04:16,152
+The old charger was cracked
+and slow, and the agent
+
+78
+00:04:16,232 --> 00:04:19,569
+pointed out that it topped
+out at about 10 watts,
+
+79
+00:04:19,649 --> 00:04:23,275
+while my phone could use
+modern USB-C fast charging.
+
+80
+00:04:23,275 --> 00:04:27,660
+So that replacement was
+not like for like either:
+
+81
+00:04:27,740 --> 00:04:29,756
+a 60-watt unit, $19.99,
+
+82
+00:04:29,836 --> 00:04:34,575
+with a retractable cable
+that also ended the tangle.
+
+83
+00:04:34,575 --> 00:04:38,800
+Even the purchase was easier
+for the agent being in it.
+
+84
+00:04:38,800 --> 00:04:42,618
+To get my daughter the exact
+one, I would normally just
+
+85
+00:04:42,698 --> 00:04:46,950
+send a picture, because an
+Amazon link is ridiculously long.
+
+86
+00:04:46,950 --> 00:04:52,135
+The agent pulled the ASIN out
+of that link and built the
+
+87
+00:04:52,215 --> 00:04:57,575
+short form — amazon dot com,
+slash D P, slash B0DSBSBSGW.
+
+88
+00:04:57,575 --> 00:05:02,254
+On a marketplace the size of
+Amazon that matters: U Green sells
+
+89
+00:05:02,334 --> 00:05:06,636
+look-alike siblings in the
+same shell, and a picture alone
+
+90
+00:05:06,716 --> 00:05:11,475
+might not have separated the
+60-watt one from the 145-watt one.
+
+91
+00:05:11,475 --> 00:05:15,185
+Then the older cable failed
+its test, and the agent
+
+92
+00:05:15,265 --> 00:05:19,575
+isolated the fault: charger
+good, socket good, cable dead.
+
+93
+00:05:19,575 --> 00:05:24,376
+Its replacement was researched
+the same afternoon — $5.97,
+
+94
+00:05:24,456 --> 00:05:30,600
+chosen because its plug looked slim
+enough to seat through my phone case.
+
+95
+00:05:30,600 --> 00:05:35,321
+The agent said plainly that no
+listing publishes plug dimensions,
+
+96
+00:05:35,401 --> 00:05:38,725
+so that last point rested
+on the photographs.
+
+97
+00:05:38,725 --> 00:05:41,975
+The uncertainty was not abolished.
+
+98
+00:05:41,975 --> 00:05:47,025
+It was shrunk to one small, named
+unknown, on a six-dollar item.
+
+99
+00:05:47,025 --> 00:05:50,275
+That is a risk a person can take.
+
+100
+00:05:50,275 --> 00:05:53,825
+None of this was unknown to me, exactly.
+
+101
+00:05:53,825 --> 00:05:56,675
+I know fast charging exists.
+
+102
+00:05:56,675 --> 00:05:59,425
+I know a mesh catches hair.
+
+103
+00:05:59,425 --> 00:06:02,370
+The trouble is remembering
+it in the moment —
+
+104
+00:06:02,450 --> 00:06:06,135
+at the exact moment of replacing
+a stopper or a charger,
+
+105
+00:06:06,215 --> 00:06:10,450
+when your mind is on the missing
+part and the size of the hole.
+
+106
+00:06:10,450 --> 00:06:13,600
+The agent remembers in the moment.
+
+107
+00:06:13,600 --> 00:06:15,775
+That is the difference.
+
+108
+00:06:15,775 --> 00:06:19,336
+A fingerprint reader
+for my computer, $23.70:
+
+109
+00:06:19,416 --> 00:06:24,192
+bought because the checking was
+cheap — and later cancelled,
+
+110
+00:06:24,272 --> 00:06:28,075
+also cheaply, when I
+decided I did not need it.
+
+111
+00:06:28,075 --> 00:06:31,781
+Both directions of the
+decision cost almost nothing,
+
+112
+00:06:31,861 --> 00:06:37,175
+because the expensive part, the
+verification, had already been done once.
+
+113
+00:06:37,175 --> 00:06:40,836
+Even the vacuum cleaner:
+researched and decided now,
+
+114
+00:06:40,916 --> 00:06:44,225
+to be bought when the
+Black Friday sale comes.
+
+115
+00:06:44,225 --> 00:06:48,825
+The certainty work is banked; the
+purchase can wait for its moment.
+
+116
+00:06:48,825 --> 00:06:52,414
+There is a whole class of
+small improvements to daily
+
+117
+00:06:52,494 --> 00:06:56,082
+life that sit undone, not
+because they cost too much,
+
+118
+00:06:56,162 --> 00:06:59,900
+but because the certainty
+they require costs too much.
+
+119
+00:06:59,900 --> 00:07:02,725
+An agent removes that cost.
+
+120
+00:07:02,725 --> 00:07:07,400
+The agent does not make the fix
+cheaper — it makes the fix possible.
+
+121
+00:07:07,400 --> 00:07:11,125
+The same uncertainty keeps you
+from hiking in a new place:
+
+122
+00:07:11,205 --> 00:07:13,618
+the walking itself is easy, and free —
+
+123
+00:07:13,698 --> 00:07:17,700
+what stops you is everything
+you do not know about the trail.
+
+124
+00:07:17,700 --> 00:07:21,850
+And it works now because two
+things have arrived together.
+
+125
+00:07:21,850 --> 00:07:25,137
+The first is that Asia
+provides cheap products:
+
+126
+00:07:25,217 --> 00:07:31,082
+manufacturing there has made accessories
+and small parts so inexpensive that price,
+
+127
+00:07:31,162 --> 00:07:34,600
+by itself, is no longer
+the barrier it once was.
+
+128
+00:07:34,600 --> 00:07:37,579
+The second is the agent, which removes the
+
+129
+00:07:37,659 --> 00:07:40,500
+barrier that remains — the uncertainty.
+
+130
+00:07:40,500 --> 00:07:42,702
+Cheap products without the agent
+
+131
+00:07:42,782 --> 00:07:45,350
+still sit unbought, or bought wrong.
+
+132
+00:07:45,350 --> 00:07:48,132
+The agent without cheap products would
+
+133
+00:07:48,212 --> 00:07:51,150
+be verifying fixes nobody could afford.
+
+134
+00:07:51,150 --> 00:07:53,882
+It is the cheap products and the agent,
+
+135
+00:07:53,962 --> 00:07:56,125
+together, that make this work.
+
+136
+00:07:56,125 --> 00:07:58,897
+Uncertainty has a second, quieter cost:
+
+137
+00:07:58,977 --> 00:08:01,975
+it makes you spend more than you need to.
+
+138
+00:08:01,975 --> 00:08:04,545
+When you cannot judge a product yourself,
+
+139
+00:08:04,625 --> 00:08:09,005
+you default to a known brand, because
+the name feels like insurance —
+
+140
+00:08:09,085 --> 00:08:11,800
+and often you are paying for that feeling.
+
+141
+00:08:11,800 --> 00:08:14,815
+An agent can assess the
+thing itself and say
+
+142
+00:08:14,895 --> 00:08:17,850
+whether a cheaper product is just as good.
+
+143
+00:08:17,850 --> 00:08:22,900
+Then the brand premium becomes a
+choice, not a tax on not knowing.
+
+144
+00:08:22,900 --> 00:08:27,181
+And at the moment, this is the
+part that still surprises me:
+
+145
+00:08:27,261 --> 00:08:29,950
+the agent itself is essentially free.
+
+146
+00:08:29,950 --> 00:08:33,000
+I do not know how long that lasts.
+
+147
+00:08:33,000 --> 00:08:37,159
+I do know that a free thing
+left unused expires worthless —
+
+148
+00:08:37,239 --> 00:08:40,400
+like a token, like a
+voucher, like daylight.
+
+149
+00:08:40,400 --> 00:08:44,172
+So the sensible move is to
+spend the free certainty
+
+150
+00:08:44,252 --> 00:08:47,425
+on real problems while the window is open.
+
+151
+00:08:47,425 --> 00:08:51,380
+It seems only fair to end
+by disclosing the machinery,
+
+152
+00:08:51,460 --> 00:08:54,075
+because the machinery is the point.
+
+153
+00:08:54,075 --> 00:08:58,413
+This post was discussed with my
+agent until the idea was clear,
+
+154
+00:08:58,493 --> 00:09:01,779
+then written by the agent
+from our conversation,
+
+155
+00:09:01,859 --> 00:09:04,875
+in my words as far as
+it could manage them.
+
+156
+00:09:04,875 --> 00:09:09,184
+If you are listening rather than
+reading, the voice is my own,
+
+157
+00:09:09,264 --> 00:09:13,300
+cloned, produced by software
+on a computer under my desk.
+
+158
+00:09:13,300 --> 00:09:17,069
+No photographs were needed
+and none were hunted down,
+
+159
+00:09:17,149 --> 00:09:21,725
+because the subject is an idea,
+and an idea is its own picture.
+
+160
+00:09:21,725 --> 00:09:26,154
+The first episode of a channel
+about less obvious things should,
+
+161
+00:09:26,234 --> 00:09:28,700
+I think, have to pass its own test.
+
+162
+00:09:28,700 --> 00:09:32,025
+This one was made the way it describes.
+
+163
+00:09:32,025 --> 00:09:34,800
+You can judge whether it works.
