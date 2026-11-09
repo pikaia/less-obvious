@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Fix Was Cheap. The Certainty Wasn't."
-date: 2026-11-09 09:00:00 -0500
+date: 2026-11-09 06:30:00 -0500
 categories: [ideas, agents]
 ---
 
