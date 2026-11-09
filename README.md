@@ -48,6 +48,16 @@ discuss → blog post → Kokoro cloned-voice audio → waveform video.
    Less Obvious YouTube channel as Public with the AI-narration disclosure,
    then add the YouTube link to the post and push again.
 
+## Publish-time rule (Chris, 2026-11-09)
+
+When a post is ready, it goes — the timestamp serves us, not GitHub.
+Jekyll silently skips future-dated posts, so a post's time of day is set
+safely early on its finish day (early morning), or backdated outright if
+that is what getting it live takes; backdating is always acceptable and a
+finished post is never held for the clock. Versioning follows the blog's
+mechanism: `date` in the front matter keeps the original publish moment
+permanently, and any later edit bumps `last_modified_at` only.
+
 ## Editorial gauges (settled with Chris, 2026-11-09)
 
 - Length: 1,000–1,500 words per post (~7 min read, ~8–10 min narrated).
