@@ -36,17 +36,32 @@ discuss → blog post → Kokoro cloned-voice audio → waveform video.
    judgement is the gate. Nothing publishes before it.
 3. **Audio (on Chris's PC):** narration is generated with the established
    Kokoro + OpenVoice cloned-voice workflow (the pikaia.github.io pipeline
-   machinery, Chris's cloned voice), from the post's narration text.
-   Pronunciation scan first, per the blog's dry-run-first discipline.
-   Output: `assets/audio/<slug>.mp3`. Wire it into the post at the
-   `<!-- LISTEN -->` marker as an `<audio controls>` element.
-4. **Waveform video (any machine with ffmpeg):**
+   machinery, Chris's cloned voice), from a narration source kept at
+   `scripts/<episode>-narration.md` — the post text with spoken-form
+   fixes only (HTML comments stripped; words the synthesiser would
+   letter-spell or misread respelt, e.g. "U Green", "reed" for the verb
+   "read"). Pronunciation scan first, per the blog's dry-run-first
+   discipline. Output: `assets/audio/<slug>.mp3` (+ timing/srt/voice
+   sidecars). Heteronyms are the known trap: the dry run cannot catch a
+   wrong-but-confident reading (Ep. 1: "read" said as "red"), so Chris's
+   ear is the final check, and a fix is a respell + cached re-run.
+4. **Gadgets (same family as Lesser Known Singapore, Chris 2026-11-09):**
+   the post carries the gadget row at the top, inside
+   `<!-- GADGETS:BEGIN/END -->` markers: the round **Listen** button
+   (headphone icon toggling the narration audio, LSK's exact widget)
+   from the moment the audio exists. **YouTube** and **TikTok** buttons
+   join the same row when the video is published (step 5) — never
+   placeholder buttons before there is a URL, matching how LSK wires
+   its URLs in at its step 11.
+5. **Waveform video (any machine with ffmpeg):**
    `scripts/make_waveform.sh assets/audio/<slug>.mp3 "<Post title>" assets/video/<slug>.mp4`
-   — 1280×720, title card + live waveform. Tested 2026-11-09 on sample audio.
-5. **Publish:** commit + push (post goes live at
-   pikaia.github.io/less-obvious/…), upload the waveform video to the
-   Less Obvious YouTube channel as Public with the AI-narration disclosure,
-   then add the YouTube link to the post and push again.
+   — 1280×720, title card + live waveform. The .mp4 is not committed
+   (gitignored); it is published to YouTube/TikTok, not stored in git.
+6. **Publish:** commit + push (post goes live at
+   pikaia.github.io/less-obvious/…). When the channel exists: upload the
+   waveform video to the Less Obvious YouTube channel as Public with
+   the AI-narration disclosure, post it to TikTok, then wire the
+   YouTube and TikTok buttons into the post's gadget row and push again.
 
 ## Publish-time rule (Chris, 2026-11-09)
 
