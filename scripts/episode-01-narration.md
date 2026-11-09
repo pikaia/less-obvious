@@ -18,7 +18,7 @@ Every house has a list of small problems that never get fixed. A bathroom sink t
 
 It is not the money. It was never the money.
 
-To buy the right stopper, I would have to measure the drain, work out whether the sink has an overflow, read through listings, compare sizes, and hope. Half an hour of careful attention for a part that costs less than the lunch. The care costs more than the part. Any sensible person does the arithmetic and leaves the sink alone. The problem is not that the fix is expensive. The problem is that *being sure* is expensive.
+To buy the right stopper, I would have to measure the drain, work out whether the sink has an overflow, reed through listings, compare sizes, and hope. Half an hour of careful attention for a part that costs less than the lunch. The care costs more than the part. Any sensible person does the arithmetic and leaves the sink alone. The problem is not that the fix is expensive. The problem is that *being sure* is expensive.
 
 Uncertainty is the costly ingredient. The part is cheap.
 
@@ -30,7 +30,7 @@ This week my agent did the certainty work on several of these, one after another
 
 The stoppers: the need was simple — the stopper was missing, and I wanted a replacement. Even my remaining part in it was easier than measuring usually is. Measuring is itself an uncertain activity: do I measure the hole, or the outer rim? The inside, or across the chrome flange on top? Each tiny question is another small push away from doing the fix at all.
 
-I did none of that working out. I did what the agent told me to do: measure the inside, wall to wall, not across the flange — and if the tape was hard to read, photograph it instead. So I laid a tape across the drain and took a photograph. The agent read the bore from the photo, checked the tape's own scale against itself so the number could be trusted, and checked that size and the overflow design against the listings. We ordered with confidence.
+I did none of that working out. I did what the agent told me to do: measure the inside, wall to wall, not across the flange — and if the tape was hard to reed, photograph it instead. So I laid a tape across the drain and took a photograph. The agent read the bore from the photo, checked the tape's own scale against itself so the number could be trusted, and checked that size and the overflow design against the listings. We ordered with confidence.
 
 And the replacement was not merely a replacement. The agent pointed out a version with a mesh basket underneath — a built-in catcher for hair and debris. Both sinks now hold water, and they catch what the old stoppers never caught.
 
