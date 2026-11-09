@@ -2,11 +2,52 @@
 layout: post
 title: "The Fix Was Cheap. The Certainty Wasn't."
 date: 2026-11-09 06:30:00 -0500
-last_modified_at: 2026-11-09 10:50:00 -0500
+last_modified_at: 2026-11-09 15:40:00 -0500
 categories: [ideas, agents]
 ---
 
-<audio controls src="/less-obvious/assets/audio/the-fix-was-cheap.mp3"></audio>
+<!-- GADGETS:BEGIN (same gadget family as Lesser Known Singapore: Listen now; YouTube and TikTok buttons are wired in here when the waveform video is published, the way LSK wires its URLs in at its step 11) -->
+<div style="display: flex; gap: 2em; margin: 0.5em 0 1.5em 0; align-items: flex-end;">
+  <div id="listen-widget" role="button" tabindex="0" aria-label="Play audio narration of this post" style="display: inline-flex; flex-direction: column; align-items: center; cursor: pointer; gap: 0.2em; user-select: none;">
+    <span id="listen-icon" aria-hidden="true" style="display: inline-flex; align-items: center; justify-content: center; width: 2.1em; height: 2.1em; border-radius: 50%; border: 1px solid #888; font-size: 1.1em;">&#127911;</span>
+    <span style="font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.05em; opacity: 0.75;">Listen</span>
+    <audio id="listen-audio" preload="none" style="display: none;">
+      <source src="/less-obvious/assets/audio/the-fix-was-cheap.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+</div>
+
+<script>
+(function () {
+  var widget = document.getElementById('listen-widget');
+  var icon = document.getElementById('listen-icon');
+  var audio = document.getElementById('listen-audio');
+
+  function setIcon(playing) {
+    icon.innerHTML = playing ? '&#10074;&#10074;' : '&#127911;';
+  }
+
+  function toggle() {
+    if (audio.paused) {
+      audio.play();
+    } else {
+      audio.pause();
+    }
+  }
+
+  widget.addEventListener('click', toggle);
+  widget.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      toggle();
+    }
+  });
+  audio.addEventListener('play', function () { setIcon(true); });
+  audio.addEventListener('pause', function () { setIcon(false); });
+  audio.addEventListener('ended', function () { setIcon(false); });
+})();
+</script>
+<!-- GADGETS:END -->
 
 This morning, an AI ordered my lunch.
 
