@@ -2,7 +2,7 @@
 layout: post
 title: "The Fix Was Cheap. The Certainty Wasn't."
 date: 2026-11-09 06:30:00 -0500
-last_modified_at: 2026-11-09 15:45:00 -0500
+last_modified_at: 2026-11-10 14:15:00 -0500
 categories: [ideas, agents]
 ---
 
@@ -15,6 +15,12 @@ categories: [ideas, agents]
       <source src="/less-obvious/assets/audio/the-fix-was-cheap.mp3" type="audio/mpeg">
     </audio>
   </div>
+  <a href="https://youtu.be/zPOhGXzQIRQ" target="_blank" rel="noopener" aria-label="Watch this post as a video on YouTube" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.2em; text-decoration: none; color: inherit;">
+    <span aria-hidden="true" style="display: inline-flex; align-items: center; justify-content: center; width: 2.4em; height: 2.4em; border-radius: 50%; border: 1px solid #888;">
+      <svg width="1.4em" height="1.4em" viewBox="0 0 24 24" aria-hidden="true"><rect x="1" y="4" width="22" height="16" rx="5" fill="#FF0000"/><path d="M10 8.5l6 3.5-6 3.5z" fill="#fff"/></svg>
+    </span>
+    <span style="font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.05em; opacity: 0.75;">YouTube</span>
+  </a>
 </div>
 
 <script>
