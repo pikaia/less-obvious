@@ -1,0 +1,337 @@
+[
+  {
+    "text": "It Forgets Everything.",
+    "offset_s": 0.0,
+    "duration_s": 2.2
+  },
+  {
+    "text": "So You Build It a Notebook.",
+    "offset_s": 2.2,
+    "duration_s": 2.575
+  },
+  {
+    "text": "Last week, my agent forgot our conversation while we were in the middle of it.",
+    "offset_s": 4.775,
+    "duration_s": 5.525
+  },
+  {
+    "text": "We were sorting boxes in the basement — or rather, I was sorting and it was keeping the catalogue — when the conversation grew past its size limit and was compressed into a summary.",
+    "offset_s": 10.3,
+    "duration_s": 12.05
+  },
+  {
+    "text": "The agent carried on from the summary, and it kept the gist faithfully.",
+    "offset_s": 22.35,
+    "duration_s": 4.975
+  },
+  {
+    "text": "But some of the fine detail had blurred, the way a photocopy of a photocopy softens.",
+    "offset_s": 27.325,
+    "duration_s": 6.375
+  },
+  {
+    "text": "Later that same afternoon I mentioned a project \"we talked about earlier\" — some N F C tags from another conversation — and the agent did not hold that thread at all.",
+    "offset_s": 33.7,
+    "duration_s": 11.5
+  },
+  {
+    "text": "It went and searched its written record, found the discussion, and reconnected it.",
+    "offset_s": 45.2,
+    "duration_s": 5.85
+  },
+  {
+    "text": "The record did the remembering.",
+    "offset_s": 51.05,
+    "duration_s": 2.725
+  },
+  {
+    "text": "The agent did the fetching.",
+    "offset_s": 53.775,
+    "duration_s": 2.575
+  },
+  {
+    "text": "Most people, hearing this, would file it under limitations of AI.",
+    "offset_s": 56.35,
+    "duration_s": 5.125
+  },
+  {
+    "text": "I have come to think it is the most instructive thing about working with one.",
+    "offset_s": 61.475,
+    "duration_s": 5.75
+  },
+  {
+    "text": "Because the forgetting is not a defect that better models will shortly remove.",
+    "offset_s": 67.225,
+    "duration_s": 5.675
+  },
+  {
+    "text": "It is a fact of the machinery — and once you state the fact plainly, the whole shape of a working system with an agent falls out of it, piece by piece, almost forced.",
+    "offset_s": 72.9,
+    "duration_s": 10.8
+  },
+  {
+    "text": "Underneath, a language model is stateless.",
+    "offset_s": 83.7,
+    "duration_s": 3.5
+  },
+  {
+    "text": "Each time it wakes, it knows nothing except what it is handed.",
+    "offset_s": 87.2,
+    "duration_s": 4.675
+  },
+  {
+    "text": "Between one conversation and the next, nothing carries over on its own.",
+    "offset_s": 91.875,
+    "duration_s": 5.4
+  },
+  {
+    "text": "Its working memory is finite.",
+    "offset_s": 97.275,
+    "duration_s": 3.0
+  },
+  {
+    "text": "A conversation can only hold so much at once; past that limit, the older part must be compressed, summarised, or set aside.",
+    "offset_s": 100.275,
+    "duration_s": 9.125
+  },
+  {
+    "text": "And it natively reeds and writes text.",
+    "offset_s": 109.4,
+    "duration_s": 3.325
+  },
+  {
+    "text": "That is its whole interface with the world.",
+    "offset_s": 112.725,
+    "duration_s": 3.675
+  },
+  {
+    "text": "Nothing about this is hard, once it is stated.",
+    "offset_s": 116.4,
+    "duration_s": 3.775
+  },
+  {
+    "text": "But unstated, everyone fills the gap with their own little ideas about how these systems must work — and those ideas may or may not be true.",
+    "offset_s": 120.175,
+    "duration_s": 10.35
+  },
+  {
+    "text": "Put any competent builder in front of those three facts and the escapes are nearly forced:",
+    "offset_s": 130.525,
+    "duration_s": 6.1
+  },
+  {
+    "text": "No memory between sessions — write the memory outside the model, in files.",
+    "offset_s": 136.625,
+    "duration_s": 5.55
+  },
+  {
+    "text": "Files the model must reed and write — plain text, and markdown in particular, because it is text that carries structure without machinery.",
+    "offset_s": 142.175,
+    "duration_s": 9.175
+  },
+  {
+    "text": "Finite working memory — summarise when full, and retrieve what is needed instead of carrying everything: fetch the relevant page of the notebook rather than memorising the notebook.",
+    "offset_s": 151.35,
+    "duration_s": 11.65
+  },
+  {
+    "text": "Work too long for one sitting — leave logs, markers and mailboxes, so the next waking can pick up exactly where the last one stopped.",
+    "offset_s": 163.0,
+    "duration_s": 9.45
+  },
+  {
+    "text": "If this furniture sounds familiar, it should.",
+    "offset_s": 172.45,
+    "duration_s": 3.525
+  },
+  {
+    "text": "Bridges in different countries end up looking alike, not because the engineers copy each other, but because the loads are the same.",
+    "offset_s": 175.975,
+    "duration_s": 8.725
+  },
+  {
+    "text": "Agent systems converge the same way.",
+    "offset_s": 184.7,
+    "duration_s": 3.525
+  },
+  {
+    "text": "Some pieces have academic pedigrees: retrieval from documents was a research idea before it was a product feature, and a paper called Mem G P T modelled an agent's memory on a computer's virtual memory — a small core held in mind, the rest paged in from storage as needed.",
+    "offset_s": 188.225,
+    "duration_s": 19.025
+  },
+  {
+    "text": "Industry standardised other pieces by imitation, the way the AGENTS dot M D convention — a file of standing instructions at the top of a project — spread from tool to tool simply because it worked.",
+    "offset_s": 207.25,
+    "duration_s": 14.475
+  },
+  {
+    "text": "And underneath it all are older human patterns being rediscovered: the lab notebook, the ship's log, and Unix's old principle that everything is a file.",
+    "offset_s": 221.725,
+    "duration_s": 10.6
+  },
+  {
+    "text": "The strongest evidence that this is convergence, and not fashion, is that I arrived at the same shapes without ever being handed the papers.",
+    "offset_s": 232.325,
+    "duration_s": 9.65
+  },
+  {
+    "text": "I run several projects with my agent — a blog, an exercise channel, a ministry's videos, a hundred basement boxes to catalogue before a move.",
+    "offset_s": 241.975,
+    "duration_s": 10.2
+  },
+  {
+    "text": "Out of ordinary working instincts, the kind you pick up in a career and stop noticing, I built: a mailbox file through which I leave work orders for a second agent on my computer, and through which it reports back; a build log for every substantial job, so progress is read from the log rather than scraped off a screen — \"log, don't scrape\" became a house rule; and watermarks in the watchers, so each knows what it has already seen.",
+    "offset_s": 252.175,
+    "duration_s": 24.9
+  },
+  {
+    "text": "Piece for piece, these are the industry's shapes.",
+    "offset_s": 277.075,
+    "duration_s": 3.6
+  },
+  {
+    "text": "Nobody taught them to me.",
+    "offset_s": 280.675,
+    "duration_s": 2.475
+  },
+  {
+    "text": "The constraints pushed me where they push everyone who stays at the problem long enough.",
+    "offset_s": 283.15,
+    "duration_s": 5.625
+  },
+  {
+    "text": "The same applies to the layer nobody puts in the diagrams: the protocol between us.",
+    "offset_s": 288.775,
+    "duration_s": 5.975
+  },
+  {
+    "text": "A thumbs-up from me means read and understood, not go.",
+    "offset_s": 294.75,
+    "duration_s": 4.625
+  },
+  {
+    "text": "A gap in replies carries no meaning.",
+    "offset_s": 299.375,
+    "duration_s": 3.375
+  },
+  {
+    "text": "When the agent is wrong, the correction goes into the written record, not just into the conversation — so it cannot blur twice.",
+    "offset_s": 302.75,
+    "duration_s": 8.6
+  },
+  {
+    "text": "None of this was designed in advance.",
+    "offset_s": 311.35,
+    "duration_s": 3.425
+  },
+  {
+    "text": "Each rule was born when one of us noticed a seam, and we named it together.",
+    "offset_s": 314.775,
+    "duration_s": 5.25
+  },
+  {
+    "text": "That protocol lives in the files too, and deliberately.",
+    "offset_s": 320.025,
+    "duration_s": 4.15
+  },
+  {
+    "text": "After a stroke some years ago, my own memory has its clouded days.",
+    "offset_s": 324.175,
+    "duration_s": 5.1
+  },
+  {
+    "text": "A written understanding that neither of us has to hold perfectly — not the agent through its compressions, not me through a cloudy afternoon — is what lets the work survive both of us.",
+    "offset_s": 329.275,
+    "duration_s": 11.75
+  },
+  {
+    "text": "The usual question about agents and memory is when will they get real memory? — as if memory were a feature the next model will ship with.",
+    "offset_s": 341.025,
+    "duration_s": 9.375
+  },
+  {
+    "text": "The less obvious answer is that the memory was never going to live inside the model.",
+    "offset_s": 350.4,
+    "duration_s": 6.4
+  },
+  {
+    "text": "It lives in the notebook around the model: the files, the logs, the record.",
+    "offset_s": 356.8,
+    "duration_s": 5.575
+  },
+  {
+    "text": "And that turns out to be the good arrangement, not the consolation prize.",
+    "offset_s": 362.375,
+    "duration_s": 5.15
+  },
+  {
+    "text": "A memory inside a model would be a black box — you could not open it, check it, or correct it.",
+    "offset_s": 367.525,
+    "duration_s": 6.55
+  },
+  {
+    "text": "A notebook can be opened.",
+    "offset_s": 374.075,
+    "duration_s": 2.425
+  },
+  {
+    "text": "I can reed what my agent believes about my projects, my family, my preferences — and when it is wrong, I can fix the page, and the fix holds.",
+    "offset_s": 376.5,
+    "duration_s": 10.0
+  },
+  {
+    "text": "The memory is mine in a way no trained-in memory could be: inspectable, correctable, and portable.",
+    "offset_s": 386.5,
+    "duration_s": 7.25
+  },
+  {
+    "text": "It will still be there, readable, when the models have changed beyond recognition.",
+    "offset_s": 393.75,
+    "duration_s": 5.575
+  },
+  {
+    "text": "Continuity, it turns out, is not a property of the agent.",
+    "offset_s": 399.325,
+    "duration_s": 4.65
+  },
+  {
+    "text": "It is a property of the record.",
+    "offset_s": 403.975,
+    "duration_s": 2.975
+  },
+  {
+    "text": "Keep the record well, and the agent who wakes tomorrow is the same one who worked with you today — not because it remembers, but because it can look it up.",
+    "offset_s": 406.95,
+    "duration_s": 9.85
+  },
+  {
+    "text": "As with the first episode: this post was discussed with my agent until the idea was clear, then written by the agent from our conversation, in my words as far as it could manage them.",
+    "offset_s": 416.8,
+    "duration_s": 12.85
+  },
+  {
+    "text": "If you are listening, the voice is my own, cloned.",
+    "offset_s": 429.65,
+    "duration_s": 3.9
+  },
+  {
+    "text": "There is a fitting detail I should not leave out.",
+    "offset_s": 433.55,
+    "duration_s": 3.625
+  },
+  {
+    "text": "The conversation this episode came from was itself compressed and summarised at least once along the way, and this draft was assembled from the written record of it — the notebook doing its work, on an episode about the notebook.",
+    "offset_s": 437.175,
+    "duration_s": 14.875
+  },
+  {
+    "text": "The draft did not notice the interruption.",
+    "offset_s": 452.05,
+    "duration_s": 3.425
+  },
+  {
+    "text": "That is rather the point.",
+    "offset_s": 455.475,
+    "duration_s": 2.425
+  }
+]

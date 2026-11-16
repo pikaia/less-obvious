@@ -1,0 +1,608 @@
+﻿1
+00:00:00,080 --> 00:00:02,200
+It Forgets Everything.
+
+2
+00:00:02,200 --> 00:00:04,775
+So You Build It a Notebook.
+
+3
+00:00:04,775 --> 00:00:07,780
+Last week, my agent
+forgot our conversation
+
+4
+00:00:07,860 --> 00:00:10,300
+while we were in the middle of it.
+
+5
+00:00:10,300 --> 00:00:13,586
+We were sorting boxes in
+the basement — or rather,
+
+6
+00:00:13,666 --> 00:00:18,298
+I was sorting and it was keeping the
+catalogue — when the conversation
+
+7
+00:00:18,378 --> 00:00:22,350
+grew past its size limit and
+was compressed into a summary.
+
+8
+00:00:22,350 --> 00:00:24,971
+The agent carried on from the summary,
+
+9
+00:00:25,051 --> 00:00:27,325
+and it kept the gist faithfully.
+
+10
+00:00:27,325 --> 00:00:30,317
+But some of the fine detail had blurred,
+
+11
+00:00:30,397 --> 00:00:33,700
+the way a photocopy of
+a photocopy softens.
+
+12
+00:00:33,700 --> 00:00:37,687
+Later that same afternoon I
+mentioned a project "we talked
+
+13
+00:00:37,767 --> 00:00:41,894
+about earlier" — some N F C
+tags from another conversation —
+
+14
+00:00:41,974 --> 00:00:45,200
+and the agent did not
+hold that thread at all.
+
+15
+00:00:45,200 --> 00:00:48,009
+It went and searched its written record,
+
+16
+00:00:48,089 --> 00:00:51,050
+found the discussion, and reconnected it.
+
+17
+00:00:51,050 --> 00:00:53,775
+The record did the remembering.
+
+18
+00:00:53,775 --> 00:00:56,350
+The agent did the fetching.
+
+19
+00:00:56,350 --> 00:01:01,475
+Most people, hearing this, would
+file it under limitations of AI.
+
+20
+00:01:01,475 --> 00:01:04,043
+I have come to think it is the most
+
+21
+00:01:04,123 --> 00:01:07,225
+instructive thing about working with one.
+
+22
+00:01:07,225 --> 00:01:09,946
+Because the forgetting is not a defect
+
+23
+00:01:10,026 --> 00:01:12,900
+that better models will shortly remove.
+
+24
+00:01:12,900 --> 00:01:17,298
+It is a fact of the machinery — and
+once you state the fact plainly,
+
+25
+00:01:17,378 --> 00:01:19,932
+the whole shape of a working system with
+
+26
+00:01:20,012 --> 00:01:23,700
+an agent falls out of it,
+piece by piece, almost forced.
+
+27
+00:01:23,700 --> 00:01:27,200
+Underneath, a language model is stateless.
+
+28
+00:01:27,200 --> 00:01:31,875
+Each time it wakes, it knows
+nothing except what it is handed.
+
+29
+00:01:31,875 --> 00:01:34,726
+Between one conversation and the next,
+
+30
+00:01:34,806 --> 00:01:37,275
+nothing carries over on its own.
+
+31
+00:01:37,275 --> 00:01:40,275
+Its working memory is finite.
+
+32
+00:01:40,275 --> 00:01:44,832
+A conversation can only hold so
+much at once; past that limit,
+
+33
+00:01:44,912 --> 00:01:49,400
+the older part must be compressed,
+summarised, or set aside.
+
+34
+00:01:49,400 --> 00:01:52,725
+And it natively reeds and writes text.
+
+35
+00:01:52,725 --> 00:01:56,400
+That is its whole
+interface with the world.
+
+36
+00:01:56,400 --> 00:02:00,175
+Nothing about this is
+hard, once it is stated.
+
+37
+00:02:00,175 --> 00:02:03,620
+But unstated, everyone
+fills the gap with their
+
+38
+00:02:03,700 --> 00:02:07,520
+own little ideas about how
+these systems must work —
+
+39
+00:02:07,600 --> 00:02:10,525
+and those ideas may or may not be true.
+
+40
+00:02:10,525 --> 00:02:13,392
+Put any competent
+builder in front of those
+
+41
+00:02:13,472 --> 00:02:16,625
+three facts and the
+escapes are nearly forced:
+
+42
+00:02:16,625 --> 00:02:18,674
+No memory between sessions —
+
+43
+00:02:18,754 --> 00:02:22,175
+write the memory outside
+the model, in files.
+
+44
+00:02:22,175 --> 00:02:24,591
+Files the model must reed and write —
+
+45
+00:02:24,671 --> 00:02:28,167
+plain text, and markdown in
+particular, because it is
+
+46
+00:02:28,247 --> 00:02:31,350
+text that carries structure
+without machinery.
+
+47
+00:02:31,350 --> 00:02:35,305
+Finite working memory — summarise
+when full, and retrieve what
+
+48
+00:02:35,385 --> 00:02:39,210
+is needed instead of carrying
+everything: fetch the relevant
+
+49
+00:02:39,290 --> 00:02:43,000
+page of the notebook rather
+than memorising the notebook.
+
+50
+00:02:43,000 --> 00:02:47,645
+Work too long for one sitting —
+leave logs, markers and mailboxes,
+
+51
+00:02:47,725 --> 00:02:52,450
+so the next waking can pick up
+exactly where the last one stopped.
+
+52
+00:02:52,450 --> 00:02:55,975
+If this furniture sounds
+familiar, it should.
+
+53
+00:02:55,975 --> 00:02:59,385
+Bridges in different countries
+end up looking alike,
+
+54
+00:02:59,465 --> 00:03:04,700
+not because the engineers copy each
+other, but because the loads are the same.
+
+55
+00:03:04,700 --> 00:03:08,225
+Agent systems converge the same way.
+
+56
+00:03:08,225 --> 00:03:12,884
+Some pieces have academic pedigrees:
+retrieval from documents was a
+
+57
+00:03:12,964 --> 00:03:17,764
+research idea before it was a product
+feature, and a paper called Mem
+
+58
+00:03:17,844 --> 00:03:22,361
+G P T modelled an agent's memory
+on a computer's virtual memory —
+
+59
+00:03:22,441 --> 00:03:27,250
+a small core held in mind, the rest
+paged in from storage as needed.
+
+60
+00:03:27,250 --> 00:03:32,143
+Industry standardised other pieces
+by imitation, the way the AGENTS
+
+61
+00:03:32,223 --> 00:03:36,820
+dot M D convention — a file of
+standing instructions at the top
+
+62
+00:03:36,900 --> 00:03:41,725
+of a project — spread from tool
+to tool simply because it worked.
+
+63
+00:03:41,725 --> 00:03:46,309
+And underneath it all are older
+human patterns being rediscovered:
+
+64
+00:03:46,389 --> 00:03:48,641
+the lab notebook, the ship's log,
+
+65
+00:03:48,721 --> 00:03:52,325
+and Unix's old principle
+that everything is a file.
+
+66
+00:03:52,325 --> 00:03:55,602
+The strongest evidence
+that this is convergence,
+
+67
+00:03:55,682 --> 00:03:58,818
+and not fashion, is that
+I arrived at the same
+
+68
+00:03:58,898 --> 00:04:01,975
+shapes without ever
+being handed the papers.
+
+69
+00:04:01,975 --> 00:04:05,271
+I run several projects
+with my agent — a blog,
+
+70
+00:04:05,351 --> 00:04:08,279
+an exercise channel, a ministry's videos,
+
+71
+00:04:08,359 --> 00:04:12,175
+a hundred basement boxes
+to catalogue before a move.
+
+72
+00:04:12,175 --> 00:04:15,586
+Out of ordinary working instincts,
+the kind you pick up in a
+
+73
+00:04:15,666 --> 00:04:19,251
+career and stop noticing, I built:
+a mailbox file through which
+
+74
+00:04:19,331 --> 00:04:22,392
+I leave work orders for a
+second agent on my computer,
+
+75
+00:04:22,472 --> 00:04:26,639
+and through which it reports back; a
+build log for every substantial job,
+
+76
+00:04:26,719 --> 00:04:29,897
+so progress is read from the
+log rather than scraped off
+
+77
+00:04:29,977 --> 00:04:32,864
+a screen — "log, don't
+scrape" became a house rule;
+
+78
+00:04:32,944 --> 00:04:37,075
+and watermarks in the watchers, so
+each knows what it has already seen.
+
+79
+00:04:37,075 --> 00:04:40,675
+Piece for piece, these
+are the industry's shapes.
+
+80
+00:04:40,675 --> 00:04:43,150
+Nobody taught them to me.
+
+81
+00:04:43,150 --> 00:04:45,721
+The constraints pushed me where they push
+
+82
+00:04:45,801 --> 00:04:48,775
+everyone who stays at
+the problem long enough.
+
+83
+00:04:48,775 --> 00:04:51,682
+The same applies to the layer nobody puts
+
+84
+00:04:51,762 --> 00:04:54,750
+in the diagrams: the protocol between us.
+
+85
+00:04:54,750 --> 00:04:59,375
+A thumbs-up from me means
+read and understood, not go.
+
+86
+00:04:59,375 --> 00:05:02,750
+A gap in replies carries no meaning.
+
+87
+00:05:02,750 --> 00:05:07,380
+When the agent is wrong, the correction
+goes into the written record,
+
+88
+00:05:07,460 --> 00:05:11,350
+not just into the conversation
+— so it cannot blur twice.
+
+89
+00:05:11,350 --> 00:05:14,775
+None of this was designed in advance.
+
+90
+00:05:14,775 --> 00:05:17,036
+Each rule was born when one of us
+
+91
+00:05:17,116 --> 00:05:20,025
+noticed a seam, and we named it together.
+
+92
+00:05:20,025 --> 00:05:24,175
+That protocol lives in the
+files too, and deliberately.
+
+93
+00:05:24,175 --> 00:05:29,275
+After a stroke some years ago, my
+own memory has its clouded days.
+
+94
+00:05:29,275 --> 00:05:33,456
+A written understanding that neither
+of us has to hold perfectly —
+
+95
+00:05:33,536 --> 00:05:37,071
+not the agent through its
+compressions, not me through a
+
+96
+00:05:37,151 --> 00:05:41,025
+cloudy afternoon — is what lets
+the work survive both of us.
+
+97
+00:05:41,025 --> 00:05:44,047
+The usual question about
+agents and memory is
+
+98
+00:05:44,127 --> 00:05:47,218
+when will they get real
+memory? — as if memory
+
+99
+00:05:47,298 --> 00:05:50,400
+were a feature the next
+model will ship with.
+
+100
+00:05:50,400 --> 00:05:53,559
+The less obvious answer is that the memory
+
+101
+00:05:53,639 --> 00:05:56,800
+was never going to live inside the model.
+
+102
+00:05:56,800 --> 00:05:59,884
+It lives in the notebook around the model:
+
+103
+00:05:59,964 --> 00:06:02,375
+the files, the logs, the record.
+
+104
+00:06:02,375 --> 00:06:05,585
+And that turns out to
+be the good arrangement,
+
+105
+00:06:05,665 --> 00:06:07,525
+not the consolation prize.
+
+106
+00:06:07,525 --> 00:06:10,685
+A memory inside a model
+would be a black box —
+
+107
+00:06:10,765 --> 00:06:14,075
+you could not open it,
+check it, or correct it.
+
+108
+00:06:14,075 --> 00:06:16,500
+A notebook can be opened.
+
+109
+00:06:16,500 --> 00:06:20,161
+I can reed what my agent
+believes about my projects,
+
+110
+00:06:20,241 --> 00:06:23,686
+my family, my preferences
+— and when it is wrong,
+
+111
+00:06:23,766 --> 00:06:26,500
+I can fix the page, and the fix holds.
+
+112
+00:06:26,500 --> 00:06:30,755
+The memory is mine in a way
+no trained-in memory could be:
+
+113
+00:06:30,835 --> 00:06:33,750
+inspectable, correctable, and portable.
+
+114
+00:06:33,750 --> 00:06:35,941
+It will still be there, readable,
+
+115
+00:06:36,021 --> 00:06:39,325
+when the models have
+changed beyond recognition.
+
+116
+00:06:39,325 --> 00:06:43,975
+Continuity, it turns out, is
+not a property of the agent.
+
+117
+00:06:43,975 --> 00:06:46,950
+It is a property of the record.
+
+118
+00:06:46,950 --> 00:06:50,346
+Keep the record well, and
+the agent who wakes tomorrow
+
+119
+00:06:50,426 --> 00:06:53,115
+is the same one who
+worked with you today —
+
+120
+00:06:53,195 --> 00:06:56,800
+not because it remembers, but
+because it can look it up.
+
+121
+00:06:56,800 --> 00:07:00,838
+As with the first episode:
+this post was discussed with my
+
+122
+00:07:00,918 --> 00:07:06,517
+agent until the idea was clear, then
+written by the agent from our conversation,
+
+123
+00:07:06,597 --> 00:07:09,650
+in my words as far as
+it could manage them.
+
+124
+00:07:09,650 --> 00:07:13,550
+If you are listening, the
+voice is my own, cloned.
+
+125
+00:07:13,550 --> 00:07:17,175
+There is a fitting detail
+I should not leave out.
+
+126
+00:07:17,175 --> 00:07:21,110
+The conversation this episode
+came from was itself compressed
+
+127
+00:07:21,190 --> 00:07:23,940
+and summarised at least
+once along the way,
+
+128
+00:07:24,020 --> 00:07:27,889
+and this draft was assembled
+from the written record of it —
+
+129
+00:07:27,969 --> 00:07:32,050
+the notebook doing its work, on
+an episode about the notebook.
+
+130
+00:07:32,050 --> 00:07:35,475
+The draft did not notice the interruption.
+
+131
+00:07:35,475 --> 00:07:37,900
+That is rather the point.
