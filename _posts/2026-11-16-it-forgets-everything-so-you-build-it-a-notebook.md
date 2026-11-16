@@ -2,10 +2,11 @@
 layout: post
 title: "It Forgets Everything. So You Build It a Notebook."
 date: 2026-11-16 01:05:00 -0500
+last_modified_at: 2026-11-16 07:19:00 -0500
 categories: [ideas, agents]
 ---
 
-<!-- GADGETS:BEGIN (same gadget family as Episode 1: Listen now; the YouTube button is wired in here when the waveform video is published) -->
+<!-- GADGETS:BEGIN (same gadget family as Lesser Known Singapore: Listen and YouTube wired in when each leg is published) -->
 <div style="display: flex; gap: 2em; margin: 0.5em 0 1.5em 0; align-items: flex-end;">
   <div id="listen-widget" role="button" tabindex="0" aria-label="Play audio narration of this post" style="display: inline-flex; flex-direction: column; align-items: center; cursor: pointer; gap: 0.2em; user-select: none;">
     <span id="listen-icon" aria-hidden="true" style="display: inline-flex; align-items: center; justify-content: center; width: 2.1em; height: 2.1em; border-radius: 50%; border: 1px solid #888; font-size: 1.1em;">&#127911;</span>
@@ -14,6 +15,12 @@ categories: [ideas, agents]
       <source src="/less-obvious/assets/audio/it-forgets-everything.mp3" type="audio/mpeg">
     </audio>
   </div>
+  <a href="https://youtu.be/uUEHxZH7ncM" target="_blank" rel="noopener" aria-label="Watch this post as a video on YouTube" style="display: inline-flex; flex-direction: column; align-items: center; gap: 0.2em; text-decoration: none; color: inherit;">
+    <span aria-hidden="true" style="display: inline-flex; align-items: center; justify-content: center; width: 2.4em; height: 2.4em; border-radius: 50%; border: 1px solid #888;">
+      <svg width="1.4em" height="1.4em" viewBox="0 0 24 24" aria-hidden="true"><rect x="1" y="4" width="22" height="16" rx="5" fill="#FF0000"/><path d="M10 8.5l6 3.5-6 3.5z" fill="#fff"/></svg>
+    </span>
+    <span style="font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.05em; opacity: 0.75;">YouTube</span>
+  </a>
 </div>
 
 <script>
